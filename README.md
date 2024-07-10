@@ -12,7 +12,7 @@ Hello! I'm Jaz, a developer passionate about building applications in Angular, .
 - API and web services integration
 
 ## Contact
-- LinkedIn: [in/jazmin-briasco/]((https://www.linkedin.com/in/jazmin-briasco/))
+- LinkedIn: [in/jazmin-briasco/](https://www.linkedin.com/in/jazmin-briasco/)
 - Email: [Here](mailto:briascojazmin@email.com)
 
 Feel free to explore my repositories and reach out if you're interested in collaborating on a project or if you have any questions about my work!
